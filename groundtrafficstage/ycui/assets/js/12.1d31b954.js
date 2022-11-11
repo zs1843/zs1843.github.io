@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{497:function(n,t,e){"use strict";e.r(t);var o={name:"h5-demo-comp"},c=e(15),s=Object(c.a)(o,(function(){return(0,this._self._c)("div",[this._t("comp")],2)}),[],!1,null,"5f9d1451",null);t.default=s.exports}}]);
